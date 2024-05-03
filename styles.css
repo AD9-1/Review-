@@ -51,8 +51,8 @@ p {
   font-weight: 900;
   font-size: 1.3rem;
   content: "\f10e";
-  height: 3rem;
-  width: 3rem;
+  height: 2.3rem;
+  width: 2.3rem;
   transform: translateY(25%) translateX(25%) rotate(45deg);
   display: grid;
   place-content: center;
